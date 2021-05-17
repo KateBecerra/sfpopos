@@ -11,14 +11,12 @@ function POPOSList() {
         address="50 California St."
         image="50-california-st.jpg"
       />
-
       <div>
         <POPOSSpace />
         <POPOSSpace />
         <POPOSSpace />
         <POPOSSpace />
       </div>
-    )
   }
 
 export default POPOSList
