@@ -27,4 +27,5 @@ const spaces = data.map(( {title, address, images,hours }, i ) => {
  )
 }
 
+
 export default POPOSList
